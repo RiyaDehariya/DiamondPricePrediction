@@ -1,0 +1,7 @@
+Requirement already satisfied: blinker in c:\users\hp\desktop\diamondpriceprediction5\venv\lib\site-packages (1.8.2)
+Requirement already satisfied: click in c:\users\hp\desktop\diamondpriceprediction5\venv\lib\site-packages (8.1.7)
+Requirement already satisfied: itsdangerous in c:\users\hp\desktop\diamondpriceprediction5\venv\lib\site-packages (2.2.0)
+Requirement already satisfied: Jinja2 in c:\users\hp\desktop\diamondpriceprediction5\venv\lib\site-packages (3.1.4)
+Requirement already satisfied: Werkzeug in c:\users\hp\desktop\diamondpriceprediction5\venv\lib\site-packages (3.0.4)
+Requirement already satisfied: colorama in c:\users\hp\desktop\diamondpriceprediction5\venv\lib\site-packages (from click) (0.4.6)
+Requirement already satisfied: MarkupSafe>=2.0 in c:\users\hp\desktop\diamondpriceprediction5\venv\lib\site-packages (from Jinja2) (2.1.5)
